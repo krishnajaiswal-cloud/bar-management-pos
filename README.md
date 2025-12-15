@@ -1,3 +1,22 @@
+# Bar Management POS App
+
+An offline Bar Management & POS application built using React Native (Expo) and SQLite.
+
+## Features
+- Stock management (Add / Edit / View)
+- Billing / POS system
+- Automatic stock deduction
+- Offline-first using SQLite
+
+## Tech Stack
+- React Native (Expo)
+- TypeScript
+- SQLite
+
+## Note
+This project was built as a learning + practical implementation project.
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
